@@ -4,3 +4,4 @@ Makefile.PL
 MANIFEST
 README
 t/Crypt-Rijndael-MySQL.t
+META.yml                                 Module meta-data (added by MakeMaker)
